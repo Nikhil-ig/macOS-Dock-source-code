@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# This project is built without any third party packages!!
+# Only used Flutter and Dart core!!
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
