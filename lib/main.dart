@@ -1,3 +1,8 @@
+///
+/// This project is built without any third party packages!!
+/// Only used Flutter and Dart core!!
+///
+
 import 'package:dock/core/global_variable.dart';
 import 'package:flutter/material.dart';
 
